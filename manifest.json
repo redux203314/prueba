@@ -1,0 +1,59 @@
+{
+  "name": "My First App",
+  "short_name": "Web Developer",
+  "description": "Hola soy Urian - Viera ingeniero de Sistemas, me apasiona un mundo el desarrollo de aplicaciones web y la programaci\u00f3n",
+  "theme_color": "#abd1f2",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "index.html",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "./pwa/images/icons/1.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/2.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/3.jpg",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/4.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/5.jpg",
+      "sizes": "152x152",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/6.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/7.jpg",
+      "sizes": "256x256",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/8.jpg",
+      "sizes": "384x384",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./pwa/images/icons/9.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
